@@ -3,79 +3,91 @@
   "description": "Category description",
   "lists": [
     {
-      "id": "list-1",
-      "title": "List title",
+      "id": "popular",
+      "title": "Popular",
       "items": [
         {
-          "id": "list-1-item-1",
-          "title": "Item title",
+          "id": 1,
+          "title": "Copy Cat",
+          "provider": "NetEnt",
           "image": "/resources/roundel-copy-cat.png"
         },
         {
-          "id": "list-1-item-2",
-          "title": "Item title",
+          "id": 2,
+          "title": "Casino Island",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-casino-island.png"
         },
         {
-          "id": "list-1-item-3",
-          "title": "Item title",
+          "id": 3,
+          "title": "Schlager Slotten",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-schlager-slotten.png"
         },
         {
-          "id": "list-1-item-4",
-          "title": "Item title",
+          "id": 4,
+          "title": "Cash & Carry",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-cash-carry.png"
         }
       ]
     },
     {
-      "id": "list-2",
-      "title": "List title",
+      "id": "new-games",
+      "title": "New Games",
       "items": [
         {
-          "id": "list-2-item-1",
-          "title": "Item title",
+          "id": 4,
+          "title": "Cash & Carry",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-cash-carry.png"
         },
         {
-          "id": "list-2-item-2",
-          "title": "Item title",
+          "id": 2,
+          "title": "Casino Island",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-casino-island.png"
         },
         {
-          "id": "list-2-item-3",
-          "title": "Item title",
+          "id": 1,
+          "title": "Copy Cat",
+          "provider": "NetEnt",
           "image": "/resources/roundel-copy-cat.png"
         },
         {
-          "id": "list-2-item-4",
-          "title": "Item title",
+          "id": 3,
+          "title": "Schlager Slotten",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-schlager-slotten.png"
         }
       ]
     },
     {
-      "id": "list-3",
-      "title": "List title",
+      "id": "paf-exclusive",
+      "title": "Paf Exclusive",
       "items": [
         {
-          "id": "list-3-item-1",
-          "title": "Item title",
+          "id": 3,
+          "title": "Schlager Slotten",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-schlager-slotten.png"
         },
         {
-          "id": "list-3-item-2",
-          "title": "Item title",
+          "id": 4,
+          "title": "Cash & Carry",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-cash-carry.png"
         },
         {
-          "id": "list-3-item-3",
-          "title": "Item title",
+          "id": 1,
+          "title": "Copy Cat",
+          "provider": "NetEnt",
           "image": "/resources/roundel-copy-cat.png"
         },
         {
-          "id": "list-3-item-4",
-          "title": "Item title",
+          "id": 2,
+          "title": "Casino Island",
+          "provider": "Paf Studios",
           "image": "/resources/roundel-casino-island.png"
         }
       ]
