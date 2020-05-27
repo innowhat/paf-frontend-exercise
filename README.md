@@ -36,7 +36,7 @@ This setup provides a development server to be used in your machine. Prerequisit
 
 1. Clone repository & install setup:
     ```bash
-    git clone https://github.com/johanwestling/paf-frontend-exercise.git && cd paf-frontend-exercise
+    git clone https://github.com/AndreasLindbergPAF/paf-frontend-exercise.git && cd paf-frontend-exercise
     ```
 1. Install dependencies:
     ```bash
