@@ -58,7 +58,7 @@ This setup provides a development server to be used in your machine. Prerequisit
 
 This is the web based setup that only requires a modern browser to get you started.
 
-1. [Open a new Codesandbox](https://codesandbox.io/s/github/johanwestling/paf-frontend-exercise/tree/master/?fontsize=14&hidenavigation=1&theme=dark).
+1. [Open a new Codesandbox](https://codesandbox.io/s/github/AndreasLindbergPAF/paf-frontend-exercise/tree/master/?fontsize=14&hidenavigation=1&theme=dark).
 1. Prefix urls with ```../dist```.
     * For example ```/api/games/lists.json``` should be ```../dist/api/games/lists.json``` in codesandbox to function properly.
 1. When done, send us your Codesandbox-link.
