@@ -9,7 +9,7 @@ Translate the provided [designs (for small & large viewports)](#designs) into a 
 1. Use JavaScript (client-side) to generate the HTML based on the fetched JSON-data.
 1. Add a search field.  
    - Should filter the items rendered from the JSON-data.  
-   - Display previous search history when focused.  
+   - Display previous search history.  
 1. Use Webcomponents where it's appropriate.
 1. Use CSS to produce the layout with a mobile first approach (minimum requirement to support is screen resolutions from 320px up to 1920px).
 
