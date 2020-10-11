@@ -4,10 +4,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Paf frontend exercise</title>
-  <link rel="stylesheet" href="src/styles.css">
+  <title>Paf frontend exercise | by Innocent Okeke</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet" > </link>
+  <link rel="stylesheet" href="src/styles.css" />
+  <link rel="icon" type="image/png" href="https://www.paf.com/static/app_content/site/design/favicons/favicon-48x48.png" > </link>
 </head>
 <body>
+  <div class="container">
+    <header>
+      <h1 id="category-header">Game list</h1>
+      <p id="category-description">Description</p>
+    </header>
+    <form id="searchWrapper" onSubmit="return false;">
+      <input type="text" name="search" id="search" placeholder="search by Title or Provider" />
+    </form>
+    <main>
+      <section id="search-result-view" class="cards"></section>
+      <section id="main-view"></section>
+    </main>
+  </div>
   <script src="src/scripts.js"></script>
 </body>
 </html>
